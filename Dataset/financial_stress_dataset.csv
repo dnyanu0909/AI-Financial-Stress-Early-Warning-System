@@ -1,136 +1,136 @@
 text,label,signal
-I often save little from my income,Mild_Stress,low_savings
-I usually manage my monthly income,Mild_Stress,income_pressure
-Sometimes I save my income,No_Stress,savings_habit
-I struggle to struggle to build my savings,Mild_Stress,low_savings
-I often add to my portfolio,No_Stress,investment
-I struggle to build my savings,No_Stress,savings_habit
-I stretch my salary,Mild_Stress,income_pressure
-I overspend on my shopping,Mild_Stress,overspending
-I often build my savings,No_Stress,savings_habit
-I grow my investments,No_Stress,investment
-Sometimes I buy unnecessary my items,Mild_Stress,overspending
-I usually struggle to build my savings,Mild_Stress,low_savings
-I panic about my loan balance,High_Stress,loan_pressure
-I usually cannot pay my credit card bill,High_Stress,debt
-I struggle to buy unnecessary my items,Mild_Stress,overspending
-I track my expenses,No_Stress,financial_control
-I cannot pay my credit card bill,High_Stress,debt
-I struggle to manage my budget,No_Stress,financial_control
-Sometimes I track my expenses,No_Stress,financial_control
-Sometimes I set aside my money,No_Stress,savings_habit
-I struggle to worry about my loan repayment,High_Stress,loan_pressure
-Sometimes I stretch my salary,Mild_Stress,income_pressure
-I usually monitor my spending,No_Stress,financial_control
-I often overspend on my shopping,Mild_Stress,overspending
-I struggle with my debt,High_Stress,debt
-I often struggle with my debt,High_Stress,debt
-Sometimes I lack my cash reserves,High_Stress,cash_shortage
-I save little from my income,Mild_Stress,low_savings
-I run out of my money,High_Stress,cash_shortage
-Sometimes I save little from my income,Mild_Stress,low_savings
-Sometimes I manage my budget,No_Stress,financial_control
-Sometimes I invest my earnings,No_Stress,investment
-I usually save little from my income,Mild_Stress,low_savings
-I usually set aside my money,No_Stress,savings_habit
-I often set aside my money,No_Stress,savings_habit
-I often miss my loan payment,High_Stress,debt
-Sometimes I adjust my budget,Mild_Stress,income_pressure
-I build my savings,No_Stress,savings_habit
-Sometimes I cannot pay my credit card bill,High_Stress,debt
-Sometimes I overspend on my shopping,Mild_Stress,overspending
-Sometimes I manage my monthly income,Mild_Stress,income_pressure
-I usually overspend on my shopping,Mild_Stress,overspending
-I often monitor my spending,No_Stress,financial_control
-I struggle to save my income,No_Stress,savings_habit
-I struggle to set aside my money,No_Stress,savings_habit
-I struggle to add to my portfolio,No_Stress,investment
-I struggle to adjust my budget,Mild_Stress,income_pressure
-I buy unnecessary my items,Mild_Stress,overspending
-I save my income,No_Stress,savings_habit
-Sometimes I run out of my money,High_Stress,cash_shortage
-I often grow my investments,No_Stress,investment
-I often run out of my money,High_Stress,cash_shortage
-Sometimes I miss my loan payment,High_Stress,debt
-I struggle to have almost no my savings,High_Stress,cash_shortage
-I struggle to struggle with my debt,High_Stress,debt
-I struggle to spend too much on my online purchases,Mild_Stress,overspending
-I add to my portfolio,No_Stress,investment
-I struggle to build my savings,Mild_Stress,low_savings
-I usually have almost no my savings,High_Stress,cash_shortage
-Sometimes I have almost no my savings,High_Stress,cash_shortage
-I often adjust my budget,Mild_Stress,income_pressure
-I usually miss my loan payment,High_Stress,debt
-I often cannot pay my credit card bill,High_Stress,debt
-I struggle to track my expenses,No_Stress,financial_control
-I often struggle to build my savings,Mild_Stress,low_savings
-I monitor my spending,No_Stress,financial_control
-I struggle to manage my monthly income,Mild_Stress,income_pressure
-I usually run out of my money,High_Stress,cash_shortage
-I often invest my earnings,No_Stress,investment
-I often save my income,No_Stress,savings_habit
-I usually spend too much on my online purchases,Mild_Stress,overspending
-I usually manage my budget,No_Stress,financial_control
-Sometimes I struggle with my debt,High_Stress,debt
+I usually save my income,No_Stress,savings_habit
 Sometimes I struggle to build my savings,Mild_Stress,low_savings
 Sometimes I delay my saving money,Mild_Stress,low_savings
+I often lack my cash reserves,High_Stress,cash_shortage
+I struggle to miss my loan payment,High_Stress,debt
+I usually build my savings,No_Stress,savings_habit
+I often set aside my money,No_Stress,savings_habit
+Sometimes I save little from my income,Mild_Stress,low_savings
+I often save my income,No_Stress,savings_habit
+I often build my savings,No_Stress,savings_habit
+I usually stretch my salary,Mild_Stress,income_pressure
 I delay my saving money,Mild_Stress,low_savings
 I invest my earnings,No_Stress,investment
-I usually build my savings,No_Stress,savings_habit
-I manage my budget,No_Stress,financial_control
-Sometimes I grow my investments,No_Stress,investment
-I struggle to miss my loan payment,High_Stress,debt
-Sometimes I panic about my loan balance,High_Stress,loan_pressure
-I often panic about my loan balance,High_Stress,loan_pressure
-I usually delay my saving money,Mild_Stress,low_savings
-I often manage my budget,No_Stress,financial_control
-I usually add to my portfolio,No_Stress,investment
-I struggle to stress over my EMI payments,High_Stress,loan_pressure
-I usually adjust my budget,Mild_Stress,income_pressure
-I struggle to lack my cash reserves,High_Stress,cash_shortage
-I struggle to save little from my income,Mild_Stress,low_savings
-I often lack my cash reserves,High_Stress,cash_shortage
-I set aside my money,No_Stress,savings_habit
-I usually stretch my salary,Mild_Stress,income_pressure
-I often delay my saving money,Mild_Stress,low_savings
-I miss my loan payment,High_Stress,debt
-I often spend too much on my online purchases,Mild_Stress,overspending
-I usually panic about my loan balance,High_Stress,loan_pressure
-I adjust my budget,Mild_Stress,income_pressure
-I often manage my monthly income,Mild_Stress,income_pressure
-I usually invest my earnings,No_Stress,investment
-I struggle to stretch my salary,Mild_Stress,income_pressure
-I struggle to cannot pay my credit card bill,High_Stress,debt
-Sometimes I add to my portfolio,No_Stress,investment
 I struggle to overspend on my shopping,Mild_Stress,overspending
+I struggle to worry about my loan repayment,High_Stress,loan_pressure
+I stretch my salary,Mild_Stress,income_pressure
+I struggle to cannot pay my credit card bill,High_Stress,debt
 I usually grow my investments,No_Stress,investment
-I have almost no my savings,High_Stress,cash_shortage
-Sometimes I stress over my EMI payments,High_Stress,loan_pressure
-Sometimes I build my savings,No_Stress,savings_habit
-I often stress over my EMI payments,High_Stress,loan_pressure
-Sometimes I monitor my spending,No_Stress,financial_control
-I worry about my loan repayment,High_Stress,loan_pressure
-I usually stress over my EMI payments,High_Stress,loan_pressure
-I usually struggle with my debt,High_Stress,debt
-I often track my expenses,No_Stress,financial_control
-I often buy unnecessary my items,Mild_Stress,overspending
-I manage my monthly income,Mild_Stress,income_pressure
-I usually track my expenses,No_Stress,financial_control
-I often stretch my salary,Mild_Stress,income_pressure
-I struggle to delay my saving money,Mild_Stress,low_savings
-I usually lack my cash reserves,High_Stress,cash_shortage
-I struggle to grow my investments,No_Stress,investment
+I cannot pay my credit card bill,High_Stress,debt
 I usually worry about my loan repayment,High_Stress,loan_pressure
-I struggle to monitor my spending,No_Stress,financial_control
-I often have almost no my savings,High_Stress,cash_shortage
-I spend too much on my online purchases,Mild_Stress,overspending
-I lack my cash reserves,High_Stress,cash_shortage
-I struggle to invest my earnings,No_Stress,investment
-Sometimes I worry about my loan repayment,High_Stress,loan_pressure
-I usually buy unnecessary my items,Mild_Stress,overspending
-Sometimes I spend too much on my online purchases,Mild_Stress,overspending
-I stress over my EMI payments,High_Stress,loan_pressure
-I usually save my income,No_Stress,savings_habit
-I struggle to panic about my loan balance,High_Stress,loan_pressure
+I often struggle with my debt,High_Stress,debt
+I often manage my monthly income,Mild_Stress,income_pressure
+Sometimes I build my savings,No_Stress,savings_habit
+Sometimes I save my income,No_Stress,savings_habit
+I usually add to my portfolio,No_Stress,investment
 I struggle to run out of my money,High_Stress,cash_shortage
+I often add to my portfolio,No_Stress,investment
+I often manage my budget,No_Stress,financial_control
+I grow my investments,No_Stress,investment
+Sometimes I worry about my loan repayment,High_Stress,loan_pressure
+Sometimes I stress over my EMI payments,High_Stress,loan_pressure
+I struggle to add to my portfolio,No_Stress,investment
+I struggle to manage my budget,No_Stress,financial_control
+Sometimes I spend too much on my online purchases,Mild_Stress,overspending
+I often overspend on my shopping,Mild_Stress,overspending
+I struggle to grow my investments,No_Stress,investment
+Sometimes I track my expenses,No_Stress,financial_control
+I often struggle to build my savings,Mild_Stress,low_savings
+Sometimes I have almost no my savings,High_Stress,cash_shortage
+I run out of my money,High_Stress,cash_shortage
+I usually spend too much on my online purchases,Mild_Stress,overspending
+I often monitor my spending,No_Stress,financial_control
+I usually monitor my spending,No_Stress,financial_control
+I often cannot pay my credit card bill,High_Stress,debt
+I buy unnecessary my items,Mild_Stress,overspending
+I track my expenses,No_Stress,financial_control
+I struggle to manage my monthly income,Mild_Stress,income_pressure
+I struggle to lack my cash reserves,High_Stress,cash_shortage
+I add to my portfolio,No_Stress,investment
+I save little from my income,Mild_Stress,low_savings
+I often invest my earnings,No_Stress,investment
+I adjust my budget,Mild_Stress,income_pressure
+Sometimes I add to my portfolio,No_Stress,investment
+I often buy unnecessary my items,Mild_Stress,overspending
+I often run out of my money,High_Stress,cash_shortage
+I monitor my spending,No_Stress,financial_control
+I struggle to buy unnecessary my items,Mild_Stress,overspending
+Sometimes I adjust my budget,Mild_Stress,income_pressure
+I struggle with my debt,High_Stress,debt
+I struggle to struggle to build my savings,Mild_Stress,low_savings
+I set aside my money,No_Stress,savings_habit
+I usually manage my monthly income,Mild_Stress,income_pressure
+I save my income,No_Stress,savings_habit
+I panic about my loan balance,High_Stress,loan_pressure
+I often track my expenses,No_Stress,financial_control
+I manage my monthly income,Mild_Stress,income_pressure
+I struggle to save little from my income,Mild_Stress,low_savings
+I overspend on my shopping,Mild_Stress,overspending
+Sometimes I manage my monthly income,Mild_Stress,income_pressure
+I lack my cash reserves,High_Stress,cash_shortage
+I usually miss my loan payment,High_Stress,debt
+I spend too much on my online purchases,Mild_Stress,overspending
+I struggle to build my savings,No_Stress,savings_habit
+I struggle to panic about my loan balance,High_Stress,loan_pressure
+I usually panic about my loan balance,High_Stress,loan_pressure
+Sometimes I invest my earnings,No_Stress,investment
+I struggle to stretch my salary,Mild_Stress,income_pressure
+I usually lack my cash reserves,High_Stress,cash_shortage
+I worry about my loan repayment,High_Stress,loan_pressure
+I often save little from my income,Mild_Stress,low_savings
+I build my savings,No_Stress,savings_habit
+I often panic about my loan balance,High_Stress,loan_pressure
+I usually save little from my income,Mild_Stress,low_savings
 I often worry about my loan repayment,High_Stress,loan_pressure
+I manage my budget,No_Stress,financial_control
+I struggle to track my expenses,No_Stress,financial_control
+I often spend too much on my online purchases,Mild_Stress,overspending
+Sometimes I set aside my money,No_Stress,savings_habit
+Sometimes I grow my investments,No_Stress,investment
+Sometimes I panic about my loan balance,High_Stress,loan_pressure
+I usually invest my earnings,No_Stress,investment
+I have almost no my savings,High_Stress,cash_shortage
+I struggle to stress over my EMI payments,High_Stress,loan_pressure
+I usually cannot pay my credit card bill,High_Stress,debt
+I struggle to save my income,No_Stress,savings_habit
+I struggle to set aside my money,No_Stress,savings_habit
+I often grow my investments,No_Stress,investment
+I usually struggle to build my savings,Mild_Stress,low_savings
+I often have almost no my savings,High_Stress,cash_shortage
+I usually manage my budget,No_Stress,financial_control
+I stress over my EMI payments,High_Stress,loan_pressure
+I often miss my loan payment,High_Stress,debt
+Sometimes I cannot pay my credit card bill,High_Stress,debt
+I miss my loan payment,High_Stress,debt
+Sometimes I overspend on my shopping,Mild_Stress,overspending
+I struggle to build my savings,Mild_Stress,low_savings
+I usually stress over my EMI payments,High_Stress,loan_pressure
+Sometimes I manage my budget,No_Stress,financial_control
+I often adjust my budget,Mild_Stress,income_pressure
+I usually delay my saving money,Mild_Stress,low_savings
+Sometimes I run out of my money,High_Stress,cash_shortage
+I usually overspend on my shopping,Mild_Stress,overspending
+Sometimes I stretch my salary,Mild_Stress,income_pressure
+Sometimes I buy unnecessary my items,Mild_Stress,overspending
+I often stress over my EMI payments,High_Stress,loan_pressure
+I struggle to adjust my budget,Mild_Stress,income_pressure
+I struggle to monitor my spending,No_Stress,financial_control
+I struggle to have almost no my savings,High_Stress,cash_shortage
+I usually struggle with my debt,High_Stress,debt
+Sometimes I struggle with my debt,High_Stress,debt
+Sometimes I lack my cash reserves,High_Stress,cash_shortage
+I usually buy unnecessary my items,Mild_Stress,overspending
+I struggle to struggle with my debt,High_Stress,debt
+I often stretch my salary,Mild_Stress,income_pressure
+I usually adjust my budget,Mild_Stress,income_pressure
+I often delay my saving money,Mild_Stress,low_savings
+I usually set aside my money,No_Stress,savings_habit
+Sometimes I monitor my spending,No_Stress,financial_control
+I usually track my expenses,No_Stress,financial_control
+Sometimes I miss my loan payment,High_Stress,debt
+I usually run out of my money,High_Stress,cash_shortage
+I struggle to invest my earnings,No_Stress,investment
+I struggle to spend too much on my online purchases,Mild_Stress,overspending
+I struggle to delay my saving money,Mild_Stress,low_savings
+I usually have almost no my savings,High_Stress,cash_shortage
