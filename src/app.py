@@ -1,9 +1,17 @@
+import os
 import streamlit as st
 import pickle
 
-# load model
-model = pickle.load(open("../models/stress_model.pkl", "rb"))
-vectorizer = pickle.load(open("../models/vectorizer.pkl", "rb"))
+# Get the absolute path to the directory where app.py lives
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Build absolute paths to the models folder (which is one level up from 'src')
+model_path = os.path.join(BASE_DIR, "..", "models", "stress_model.pkl")
+vectorizer_path = os.path.join(BASE_DIR, "..", "models", "vectorizer.pkl")
+
+# Load files
+model = pickle.load(open(model_path, "rb"))
+vectorizer = pickle.load(open(vectorizer_path, "rb"))
 
 # title
 st.title("AI Financial Stress Early Warning System")
